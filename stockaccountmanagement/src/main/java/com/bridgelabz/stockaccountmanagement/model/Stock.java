@@ -1,4 +1,4 @@
-package com.bridgelabz.stockaccountmanagement;
+package com.bridgelabz.stockaccountmanagement.model;
 
 public class Stock 
 {

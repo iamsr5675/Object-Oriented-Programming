@@ -1,6 +1,9 @@
-package com.bridgelabz.stockaccountmanagement;
+package com.bridgelabz.stockaccountmanagement.controller;
 
 import java.util.Scanner;
+
+import com.bridgelabz.stockaccountmanagement.model.Stock;
+import com.bridgelabz.stockaccountmanagement.model.StockOperations;
 
 public class StockManager {
 	public static void main(String[] args) {
